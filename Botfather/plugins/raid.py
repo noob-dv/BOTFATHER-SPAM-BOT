@@ -29,16 +29,16 @@ async def spam(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        legendgirl = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        Botfather = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(legendgirl) == 2:
-            message = str(legendgirl[1])
+        if len(Botfather) == 2:
+            message = str(Botfather[1])
             print(message)
             a = await e.client.get_entity(message)
             g = a.id
             c = a.first_name
             username = f"[{c}](tg://user?id={g})"
-            counter = int(legendgirl[0])
+            counter = int(Botfather[0])
             for _ in range(counter):
                 reply = random.choice(RAID)
                 caption = f"{username} {reply}"
@@ -50,7 +50,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             c = b.first_name
-            counter = int(legendgirl[0])
+            counter = int(Botfather[0])
             username = f"[{c}](tg://user?id={g})"
             for _ in range(counter):
                 reply = random.choice(RAID)
