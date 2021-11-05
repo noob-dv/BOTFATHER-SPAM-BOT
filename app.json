@@ -1,6 +1,6 @@
 {
-    "name": "ʙᴏᴛғᴀᴛʜᴇʀ sᴘᴀᴍ ʙᴏᴛ",
-    "description": "sᴘᴀᴍᴍɪɴɢ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @M1CKEY_0P🔥❤",
+    "name": "LegendSpam",
+    "description": "Spamming Bot Made By LegendBoy and Manisha",
     "logo": "https://te.legra.ph/file/51153ee3e3b62182782ba.jpg",
     "keywords": [
         "telegram",
@@ -9,79 +9,79 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/MickeyxD/BOTFATHER-SPAM-BOT",
+    "repository": "https://github.com/LEGEND-OS/BOTTOKENSPAM",
     "website": "https://t.me/MISS_SENORITA1",
     "success_url": "https://t.me/The_LegendBoy",
     "env": {
         "API_HASH": {
-            "description": "ᴡʀɪᴛᴇ ᴀᴘɪ_ʜᴀsʜ ғʀᴏᴍ my.telegram.org",
+            "description": "Write API_HASH from my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": ᴘᴀsᴛᴇ ᴀᴘɪ_ɪᴅ ғʀᴏᴍ my.telegram.org",
+            "description": "Paste API ID from my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ",
+            "description": "Use @BotFather. To Get BOT_TOKEN",
             "value": ""
         },
         "BOT_TOKEN2": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
 
         },
         "BOT_TOKEN3": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
            
         },
         "BOT_TOKEN4": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
         "BOT_TOKEN5": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
            
         },
         "BOT_TOKEN6": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
         "BOT_TOKEN7": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ",
+            "description": "Use @BotFather. To Get BOT_TOKEN",
             "value": ""
             
         },
         "BOT_TOKEN8": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
         "BOT_TOKEN9": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
         "BOT_TOKEN10": {
-            "description": "ᴜsᴇ @BotFather. ᴛᴏ ɢᴇᴛ ʙᴏᴛ_ᴛᴏᴋᴇɴ.",
+            "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": ""
             
         },
         "SUDO_USERS": {
-            "description": "ᴏᴡɴᴇʀ_ɪᴅ",
+            "description": "OWNER_ID",
             "value": ""
             
         },
         "YOUR_NAME": {
-            "description": "ɴᴀᴍᴇ",
+            "description": "NAME",
             "value": ""
             
         },
         "HEROKU_API_KEY": {
-            "description": "ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘɪ ᴋᴇʏ ᴛᴏ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ",
+            "description": "Your Heroku api key to update your bot",
             "value": ""
             
         },
