@@ -7,7 +7,7 @@ from . import bot, bot2, bot3, bot5 , bot6, bot7, bot8, bot9, bot10
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-path = "LegendGirl/LegendBoy/*.py"
+path = "Botfather/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
