@@ -42,7 +42,7 @@ async def spam(e):
             return await e.reply(usage, parse_mode=None, link_preview=None)
         smex = await e.get_reply_message()
         plugins = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
-        Botfather = Ustad[1:]
+        Botfather = plugins[1:]
         if len(Botfather) == 2:
             message = str(Botfather[1])
             counter = int(Botfather[0])
