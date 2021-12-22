@@ -1,5 +1,5 @@
 
-YOUR_NAME = os.environ.get("YOUR_NAME, None")
+YOUR_NAME = "@digvijaysingh178"
 from .. import *
 from telethon import events
 from time import time
